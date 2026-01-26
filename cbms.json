@@ -2,7 +2,8 @@
   {
     "id": "bio_dragon_breath",
     "copy-from": "bionic_general",
-    "type": "BIONIC_ITEM",
+    "type": "ITEM",
+    "subtypes": ["BIONIC_ITEM"],
     "name": { "str": "Dragon's Breath CBM" },
     "looks_like": "bio_int_enhancer",
     "description": "A specialised fluid sac which is installed in the roof of the user's mouth, capable of emitting various chemicals in a targeted cone.",
@@ -13,7 +14,8 @@
   {
     "id": "bio_vda",
     "copy-from": "bionic_general",
-    "type": "BIONIC_ITEM",
+    "type": "ITEM",
+    "subtypes": ["BIONIC_ITEM"],
     "name": { "str": "Variable Dispersion Arrays CBM" },
     "looks_like": "bio_int_enhancer",
     "description": "Large exterior venting systems allow the user to disperse large amounts of gas into the surrounding atmosphere continuously.",
@@ -24,7 +26,8 @@
   {
     "id": "bio_chem_factory",
     "copy-from": "bionic_general",
-    "type": "BIONIC_ITEM",
+    "type": "ITEM",
+    "subtypes": ["BIONIC_ITEM"],
     "name": { "str": "Chemical Synthesizer CBM" },
     "looks_like": "bio_int_enhancer",
     "description": "A series of storage tanks connect to a 'Variable Chemical Factory' unit, capable of manufacturing a limited amount of chemicals by taking resources from a host's body.",
@@ -35,7 +38,8 @@
   {
     "id": "bio_int_overloader",
     "copy-from": "bionic_general",
-    "type": "BIONIC_ITEM",
+    "type": "ITEM",
+    "subtypes": ["BIONIC_ITEM"],
     "name": { "str": "Neural Overloader CBM" },
     "looks_like": "bio_int_enhancer",
     "description": "A module containing various neural drones that are implanted in the user's brain, greatly improving their cognitive abilities at the cost of increasing their metabolism.",
@@ -46,7 +50,8 @@
   {
     "id": "bio_drill_arm",
     "copy-from": "bionic_general",
-    "type": "BIONIC_ITEM",
+    "type": "ITEM",
+    "subtypes": ["BIONIC_ITEM"],
     "name": { "str": "Drill Arms CBM" },
     "looks_like": "bio_int_enhancer",
     "description": "A collection of two adaptable drills designed to be integrated into the users' arms, allowing them to excavate almost any terrain.",
@@ -57,7 +62,8 @@
   {
     "id": "bio_accelerator",
     "copy-from": "bionic_general_npc_usable",
-    "type": "BIONIC_ITEM",
+    "type": "ITEM",
+    "subtypes": ["BIONIC_ITEM"],
     "name": { "str": "Bio Accelerator Unit CBM" },
     "looks_like": "bio_int_enhancer",
     "description": "A series of filters and processors that is implanted in the user's digestive system, allowing them to acceleate the natural regenerative process and provides boosts of energy, at the cost of needing to consume more food and water.",
